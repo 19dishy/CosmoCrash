@@ -25,7 +25,7 @@
 ---
 
 ## 📸 Gameplay Preview
-<img width="980" height="579" alt="image" src="https://github.com/user-attachments/assets/5bee4026-78ef-497e-b12d-2af6a5dcc7d4" />
+<img width="917" height="576" alt="image" src="https://github.com/user-attachments/assets/5bee4026-78ef-497e-b12d-2af6a5dcc7d4" />
 <img width="917" height="576" alt="image" src="https://github.com/user-attachments/assets/36dc00a0-66a9-4b7a-8de5-f80e32bc2154" />
 
 ---
